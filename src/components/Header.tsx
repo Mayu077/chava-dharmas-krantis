@@ -7,7 +7,7 @@ const Header = () => {
         <div className="flex items-center justify-between">
           <div className="flex items-center space-x-4">
             <div className="font-bold">
-              <span className="text-4xl text-primary">छावा</span>
+              <span className="text-4xl text-primary font-bold">छावा</span>
               <span className="text-lg text-foreground ml-1">क्रांतिवीर सामाजिक संस्था महाराष्ट्र राज्य</span>
             </div>
             
