@@ -6,7 +6,10 @@ const Header = () => {
       <div className="container mx-auto px-4 py-4">
         <div className="flex items-center justify-between">
           <div className="flex items-center space-x-4">
-            <div className="text-2xl font-bold text-primary">चावा क्रांतिवीर</div>
+            <div className="text-2xl font-bold">
+              <span className="text-primary">छावा</span>
+              <span className="text-lg text-foreground ml-1">क्रांतिवीर</span>
+            </div>
             <div className="hidden md:block text-sm text-muted-foreground">सामाजिक संस्था महाराष्ट्र राज्य</div>
           </div>
           
