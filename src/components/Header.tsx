@@ -8,9 +8,9 @@ const Header = () => {
           <div className="flex items-center space-x-4">
             <div className="text-2xl font-bold">
               <span className="text-primary">छावा</span>
-              <span className="text-lg text-foreground ml-1">क्रांतिवीर</span>
+              <span className="text-lg text-foreground ml-1">क्रांतिवीर सामाजिक संस्था महाराष्ट्र राज्य</span>
             </div>
-            <div className="hidden md:block text-sm text-muted-foreground">सामाजिक संस्था महाराष्ट्र राज्य</div>
+            
           </div>
           
           <nav className="hidden md:flex items-center space-x-6">
